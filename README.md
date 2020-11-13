@@ -17,31 +17,22 @@ GoRestaurant Mobile
 # Banner
 
 <h1 align="center">
-  <img alt="GoRestaurant" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093133_challenge11.jpg" />
+  <img alt="GoRestaurant" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093133_challenge11.jpg" width="350" height="600" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093146_challenge11.jpg" width="350" height="600" />
 </h1>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093146_challenge11.jpg" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093157_challenge11.jpg" width="350" height="600" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093210_challenge11.jpg" width="350" height="600" />
 </h1>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093157_challenge11.jpg" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093217_challenge11.jpg" width="350" height="600" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093221_challenge11.jpg" width="350" height="600" />
 </h1
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093210_challenge11.jpg" />
-</h1
-
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093217_challenge11.jpg" />
-</h1
-
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093221_challenge11.jpg" />
-</h1
-
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093224_challenge11.jpg" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="screenshots/Screenshot_20201113-093224_challenge11.jpg" width="350" height="600" />
 </h1
 
 # Como rodar a aplicação
